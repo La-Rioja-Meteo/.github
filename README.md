@@ -1,6 +1,6 @@
 # La Rioja Meteo
 
-**La Rioja Meteo** es una plataforma dedicada a proporcionar **predicciones meteorológicas detalladas**, análisis y actualizaciones en tiempo real para la región de **La Rioja** y otras áreas afectadas por fenómenos climáticos. Nos especializamos en el seguimiento de situaciones meteorológicas extremas como **tormentas**, **borrascas**, **huracanes** y **episodios de nevadas**, siempre con un enfoque en la **precisión** y **claridad**.
+**La Rioja Meteo** es una plataforma dedicada a proporcionar **predicciones meteorológicas detalladas**, análisis y actualizaciones en tiempo real para la región de **La Rioja** y otras áreas afectadas. Nos especializamos en el seguimiento de situaciones meteorológicas extremas como **tormentas**, **borrascas**, **huracanes** y **episodios de nevadas**, siempre con un enfoque en la **precisión** y **claridad**.
 
 ## Características Principales
 
